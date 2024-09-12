@@ -20,7 +20,7 @@
   <a href="https://leetcode.com/u/Nitinjanmeda" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
   </a>  
-  <a href="https://www.linkedin.com/in/nitin-kumar-42026421b" target="blank">
+  <a href="https://www.linkedin.com/in/abhishek-kumar-872649328/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>  
 </p>
