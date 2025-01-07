@@ -80,3 +80,6 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekKumar2233&" alt="AbhishekKumar2233" />
 </p>
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekKumar2233&theme=darkhub&no-frame=true&no-bg=true&margin-w=15)
