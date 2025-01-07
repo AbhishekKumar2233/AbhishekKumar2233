@@ -76,8 +76,3 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekKumar2233&show_icons=true&locale=en" alt="AbhishekKumar2233" />
 </p>
-
-
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=AbhishekKumar2233&theme=darkhub&no-frame=true&no-bg=true&margin-w=15)
