@@ -29,16 +29,22 @@ Frontend Developer • React.js • Next.js • Building Modern Web Experiences
 ---
 
 ## 🌐 Connect With Me
-
 <p align="left">
+
 <a href="https://leetcode.com/u/Abhi_1Kumara/" target="_blank">
-<img src="https://skillicons.dev/icons?i=leetcode" height="50" />
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png"
+width="35"
+height="35"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/abhikumar2612201" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+width="35"
+height="35"/>
 </a>
 
-<a href="https://www.hackerrank.com/abhikumar2612201" target="_blank">
-<img src="https://skillicons.dev/icons?i=hackerrank" height="50" />
-</a>
 </p>
+
 
 ---
 
