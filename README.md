@@ -19,8 +19,8 @@ Frontend Developer • React.js • Next.js • Building Modern Web Experiences
 ### 🚀 About Me
 
 - 🔭 Currently building **React.js & Next.js Projects**
-- 🌱 Learning **TypeScript, System Design & AI Integration**
-- 💬 Ask me about **React.js, Next.js, JavaScript, Tailwind CSS**
+- 🌱 Learning **System Design,Node.js,Express.js,Mongodb,Sql,DSA**
+- 💬 Ask me about **React.js, Next.js, JavaScript, Tailwind CSS, TypeScript**
 - 📫 Reach me at **abhikumar26122001@gmail.com**
 - ⚡ Fun Fact: **The first computer bug was an actual bug 🐛**
 
@@ -111,4 +111,3 @@ Frontend Developer • React.js • Next.js • Building Modern Web Experiences
 *"First, solve the problem. Then, write the code."*
 
 </div>
-```
